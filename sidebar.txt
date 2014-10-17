@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ymz:home|Door43 (ymz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ymz|d43-ymz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ymz/archive/master.zip|d43-ymz.zip]]
+
+**Recent Changes**
+{{changes>ns = ymz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ymz|Ethnologue data]]
+
